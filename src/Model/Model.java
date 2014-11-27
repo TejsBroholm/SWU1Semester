@@ -1,4 +1,3 @@
-
 import java.sql.*; // Import required packages
 
 public class Model {
