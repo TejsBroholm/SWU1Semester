@@ -25,7 +25,20 @@
     <favorites_list name="SWU1Semester" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Model.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Model/Model.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.23584905" vertical-offset="0" max-vertical-offset="636">
+              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+              <folding>
+                <marker date="1417088399000" expanded="true" signature="838:858" placeholder="SELECT * FRO..Person..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -417,12 +430,12 @@
       <created>1417088130253</created>
       <option name="number" value="Default" />
       <updated>1417088130253</updated>
-      <workItem from="1417088137818" duration="393000" />
+      <workItem from="1417088137818" duration="593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="393000" />
+    <option name="totallyTimeSpent" value="593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="30" width="1260" height="733" extended-state="0" />
@@ -484,10 +497,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Model/Model.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.023584906" vertical-offset="0" max-vertical-offset="636">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.23584905" vertical-offset="0" max-vertical-offset="636">
+          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1417088399000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Person..." />
+            <marker date="1417088399000" expanded="true" signature="838:858" placeholder="SELECT * FRO..Person..." />
           </folding>
         </state>
       </provider>
